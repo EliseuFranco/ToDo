@@ -1,5 +1,5 @@
 import json
 import pywhatkit 
 
-pywhatkit.sendwhatmsg('+351922245834','Olá Mundo',1,3)
+pywhatkit.sendwhatmsg('','Olá Mundo',1,3)
 
